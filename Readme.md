@@ -1,7 +1,9 @@
-This repository should contain very common javascript things.
+PopEngine Web Platform
+=====================
+This is the web-platform of the PopEngine.
 
-Math is one.
+It has forked from https://github.com/NewChromantics/PopEngineCommon which is common code across all platforms, and cannot currently use ES6 modules.
 
-Shader/3D asset management. (But the engine should NOT require this pattern)
+As this is web-only, it is being converted to ES6 modules so the engine can be `import`ed properly.
 
-Should it include PopApi -> webgl wrappers?
+Whilst PopEngine is not currently open source, the web-platform inevitably is.
