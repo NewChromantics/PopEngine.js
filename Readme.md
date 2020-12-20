@@ -1,3 +1,5 @@
+Edit: this is out of date. Still refer to https://github.com/NewChromantics/PopEngineCommon  for latest version
+
 PopEngine Web Platform
 =====================
 This is the web-platform of the PopEngine.
